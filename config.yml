@@ -9,14 +9,28 @@ menu:
       name: Categories
       url: /categories/
       weight: 10
-socialIcons:
-  - name: "twitter"
-    url: "https://twitter.com/CoderDan"
-  - name: "github"
-    url: "https://github.com/CoderDanUK"
 params:
   assets:
     favicon: "/favicon.ico"
     logo256: "logo-256.png"
     logo512: "logo-512.png"
     logo: "logo.png"
+  description: "Dan Scott's Ramblings"
+  author: Dan Scott
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  homeInfoParams:
+    Title: "Coder Dan"
+    Content: >
+        Welcome to Dan Scott's Blog.
+        - I make excessive use of emojis 😂, write some code from time to time 💻, [once won a blockchain hackathon](https://twitter.com/CoderDan/status/1287686296190758912), 
+        [was featured on my university's youtube channel and computer science home page](https://www.youtube.com/watch?v=sQo8j2BtDrM) with [this](https://github.com/PRCS251A) 
+        project, and generally poke around with tech ⚡. I'm very approachable and love a good nerd pun 🤓. My current jam is making useful apps with C# / Vue.js. 
+  socialIcons:
+    - name: "twitter"
+      url: "https://twitter.com/CoderDan"
+    - name: "github"
+      url: "https://github.com/CoderDanUK"
