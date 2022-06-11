@@ -1,5 +1,0 @@
-baseURL = "https://coderdan.uk"
-languageCode = "en-gb"
-title = "Coder Dan"
-theme = "PaperMod"
-publishdir = "build"

@@ -1,0 +1,22 @@
+baseURL: "https://coderdan.uk"
+languageCode: "en-gb"
+title: "Coder Dan"
+theme: "PaperMod"
+publishdir: "build"
+menu:
+  main:
+    - identifier: Categories
+      name: Categories
+      url: /categories/
+      weight: 10
+socialIcons:
+  - name: "twitter"
+    url: "https://twitter.com/CoderDan"
+  - name: "github"
+    url: "https://github.com/CoderDanUK"
+params:
+  assets:
+    favicon: "/favicon.ico"
+    logo256: "logo-256.png"
+    logo512: "logo-512.png"
+    logo: "logo.png"
